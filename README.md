@@ -1,2 +1,2 @@
-# WorkinGWithCPP
+# WorkingWithCPP
 C++ mini projects 
